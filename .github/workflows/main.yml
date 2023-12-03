@@ -1,6 +1,6 @@
 name: "Vprofile IAC"
-
 on:
+jobs:
   push:
     branches:
       - main
